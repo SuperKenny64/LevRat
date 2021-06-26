@@ -3,7 +3,7 @@
 # Die url von RIS bei "urlStr" eingeben
 
 urlStr = "http://ris.leverkusen.de/si0057.asp?__ksinr=1427"
-savepath = "C:/Users/kenet/ris1.csv"
+savepath = "C:/Users/ris1.csv"
 
 seperator = "smc-card"
 end = "</td>"
